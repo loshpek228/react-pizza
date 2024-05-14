@@ -8,12 +8,12 @@ const filters = [{
 {
     id: 2,
     value: 2,
-    label: 'Мясные'
+    label: 'Вегетарианские'
 },
 {
     id: 3,
     value: 3,
-    label: 'Вегетарианская'
+    label: 'Мясные'
 },
 {
     id: 4,
